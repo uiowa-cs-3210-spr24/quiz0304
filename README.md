@@ -16,7 +16,8 @@ To get credit, you need to do 2 things:
 3. Now `clone` your private repo for quiz 03-04 (see instructions from homework 1 if you don't know how to do this) to your Desktop. Enter your Github username, and your PAT for the password.
 
 ### Commit
-A commit stores changes made by you to the repo locally, and can be pushed to the remote repo. You'll need to commit your changes before pushing them.
+A commit stores changes made by you to the repo locally, and can be pushed to the remote repo. You'll need to commit your changes before pushing them. For larger projects/assignments, you can make multiple commits to
+separate your changes into meaningful units. This assignment is just a proof of concept, so you don't need more than one commit.
 1. Make the changes as specified in the [Objective](#objective) section.
 2. Before committing, any new files must be added. In this case, you will need to add `test.txt`. You can add a file using `git add PATH_TO_FILE`. Specifically:
     ```
@@ -35,3 +36,7 @@ git pull
 git push
 ```
 You'll need to authenticate with your Github username and PAT for both pulling and pushing since this is a private repository.
+
+
+## Further Reading
+See [here](https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/) for a more involved explanation but remember to `git pull` before you `git push`.
