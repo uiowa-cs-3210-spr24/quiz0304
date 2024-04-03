@@ -9,7 +9,7 @@ To get credit, you need to do 2 things:
 ## Instructions
 
 ### Clone
-1. If you are part of the class organization `uiowa-cs-3210-spr24`, (which you should be after homework 1), following the invite link to the repo will create a private repository for you under the organization.
+1. If you are part of the class organization `uiowa-cs-3210-spr24` (which you should be after homework 1), following the invite link to the repo will create a private repository for you under the organization.
 2. Until now, we were only dealing with public repositories, but when dealing with private repositories, Github requires that you use personal access tokens (PATs) for authentication instead of your Github password.
    Follow [these](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) instructions to create a (classic) PAT and give it repository access. Store the PAT 
    somewhere safe and accessible, you will need it to clone the repo, pull from it, and push to it.
